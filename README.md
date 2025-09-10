@@ -1,5 +1,5 @@
 # 🏦 Loan Prediction App
-link : https://miniprojectdataengineering-loan-pratik.streamlit.app/
+link : (https://mini-project-data-engeneering-tejas.streamlit.app/)
 
 This project is an **end-to-end Data Engineering & Machine Learning pipeline** that predicts **Loan Approval Status**.  
 The workflow involves **loading JSON data into MySQL**, training a classification model in Python, saving the model as a `.pickle` file, and finally deploying it as a **Streamlit web app**.
